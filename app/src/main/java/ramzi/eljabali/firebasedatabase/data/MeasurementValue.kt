@@ -1,4 +1,4 @@
-package ramzi.eljabali.firebasedatabase.tables
+package ramzi.eljabali.firebasedatabase.data
 
 data class MeasurementValue(
     var value: Int = -1,

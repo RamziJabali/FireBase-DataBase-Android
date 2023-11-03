@@ -1,4 +1,4 @@
-package ramzi.eljabali.firebasedatabase.tables
+package ramzi.eljabali.firebasedatabase.data
 
 data class HabitValue(
     var isFullFilled: Boolean = false,
